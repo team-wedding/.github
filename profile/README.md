@@ -175,4 +175,3 @@
 <div align="center">
   <img src="./assets/illust.png" alt="Main" style="border-radius: 3px; width: 500px; height: auto;" />
 </div>
-ss
