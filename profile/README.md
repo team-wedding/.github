@@ -1,6 +1,7 @@
 <div align="center">
   <h1>우결, 우리 결혼해요</h1>
   <p>💍 맞춤형 청첩장 제작 및 RSVP 관리 서비스 💍</p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteam-wedding&count_bg=%23E6B6B6&title_bg=%235D5D5D&icon=coursera.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 <br/>
