@@ -7,10 +7,11 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/9aa3d444-93dd-4764-8139-1e9ee957f887" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
+
 
 <div align="center">
   <a href="https://wedding-front-xi.vercel.app/">홈페이지</a>
