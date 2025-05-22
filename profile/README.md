@@ -1,7 +1,6 @@
 <div align="center">
   <h1>우결, 우리 결혼해요</h1>
   <p>💍 맞춤형 청첩장 제작 및 RSVP 관리 서비스 💍</p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteam-wedding&count_bg=%23E6B6B6&title_bg=%235D5D5D&icon=coursera.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 <br/>
@@ -14,9 +13,9 @@
 
 
 <div align="center">
-  <a href="https://wedding-front-xi.vercel.app/">홈페이지</a>
+  <a href="https://woogyeol.vercel.app/">Service Link</a>
   &nbsp; | &nbsp;
-  <a href="https://www.notion.so/7a8ca703320846bc8e4b58a4349e2640">Notion</a>
+  <a href="https://motley-sundae-448.notion.site/19e9673ec79780a3b17bed3825f5fa8c?pvs=74">Notion</a>
   &nbsp; | &nbsp;
   <a href="https://app.swaggerhub.com/apis-docs/GHOONGHOON_1/wedding/1.0.0">Swagger</a>
 </div>
@@ -27,7 +26,7 @@
 
 - **프로젝트 명:** 우결, 우리 결혼해요
 
-- **프로젝트 기간:** 2024.12.02 ~ 2025.02.06
+- **프로젝트 기간:** 2024.12.02 ~ ing
 
 - **목표:** 사용자가 직접 커스터마이징 할 수 있는 기능뿐만 아니라 청첩장을 받은 사람들에게 참석 여부 조사, 축하 메세지, 실시간 포토월 기능을 제공하는 모바일 청첩장 개발
 
@@ -121,7 +120,6 @@
 | 💳 모바일 계좌이체 기능 | 청첩장에서 바로 축의금 송금 가능 |
 | 📱 맞춤 기능 선택 기능 | 청첩장 생성 시 지도, 교통수단, 공지사항, 캘린더 등 필요한 기능만 추가 가능 |
 | 🎶 음악 & 영상 삽입 | 배경 음악 및 웨딩 영상 삽입 기능 지원 |
-|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|
 | **기본 기능**    | **설명**         |
 | 🎫 디지털 초대장 생성 및 공유 기능 | 청첩장 제작 후 모바일로 공유 가능 |
 | 📍 지도 연동 | 결혼식장 위치를 지도와 연결하여 쉽게 찾을 수 있도록 지원|
@@ -135,15 +133,74 @@
 
 ## 🧑‍💻 팀원 소개
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/102416278?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/55120757?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/128888732?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/120161508?v=4" width="120px" height="120px"/>
+    </td>
+  </tr>
 
-| **이름**    | **역할**         |  &nbsp;&nbsp;&nbsp; | **이름**    | **역할**         |
-|:-----------:|:----------------:|:-------------------:|:-----------:|:----------------:|
-| 이소연      | 팀장 & FE         |  &nbsp;&nbsp;&nbsp; | 이종훈      | 팀장 & BE        |
-| 남유성      | FE               |  &nbsp;&nbsp;&nbsp; | 송희범      | BE               |
-| 황채연      | FE               |  &nbsp;&nbsp;&nbsp; | 오지현      | BE               |
-| 한정욱      | FE               |  
-
+  <tr>
+    <td>
+      <a href="https://github.com/eesoyeon">
+        이소연
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/heebeom-song">
+        송희범
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chaeon1">
+        황채연
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jonghoon-L">
+        이종훈
+      </a>
+    </td>
+ 
+</table>
+  <table>
+    <tr>
+        <td>
+        <img src="https://avatars.githubusercontent.com/u/102887277?v=4" width="120px" height="120px"/>
+        </td>
+        <td>
+        <img src="https://avatars.githubusercontent.com/u/101189924?v=4" width="120px" height="120px"/>
+        </td>
+        <td>
+        <img src="https://avatars.githubusercontent.com/u/121949750?v=4" width="120px" height="120px"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://github.com/meteorqz6">
+            남유성
+        </a>
+        </td>
+        <td>
+        <a href="https://github.com/nowrobin">
+            한정욱
+        </a>
+        </td>
+        <td>
+        <a href="https://github.com/wlqgkrry">
+            오지현
+        </a>
+        </td>
+    </table>
 
 ---
 
