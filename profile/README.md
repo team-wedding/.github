@@ -130,6 +130,7 @@
 
 <br>
 
+---
 
 ## 🧑‍💻 팀원 소개
 
@@ -183,6 +184,9 @@
         <td>
         <img src="https://avatars.githubusercontent.com/u/121949750?v=4" width="120px" height="120px"/>
         </td>
+        <td>
+        <img src="https://avatars.githubusercontent.com/u/20300010?v=4" width="120px" height="120px"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -200,7 +204,13 @@
             오지현
         </a>
         </td>
-    </table>
+        <td>
+        <a href="https://github.com/bredcode">
+            bred
+        </a>
+        </td>
+    </tr>
+  </table>
 
 ---
 
