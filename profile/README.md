@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <a href="https://woogyeol.vercel.app/">Service Link</a>
+  <a href="https://woogyeol.site/">Service Link</a>
   &nbsp; | &nbsp;
   <a href="https://motley-sundae-448.notion.site/19e9673ec79780a3b17bed3825f5fa8c?pvs=74">Notion</a>
   &nbsp; | &nbsp;
