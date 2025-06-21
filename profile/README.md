@@ -109,7 +109,7 @@ URL 복사, 카카오, QR 코드 3가지의 방법을 통해 공유할 수 있�
 <table>
   <thead>
     <tr>
-      <th style="width: 160px;">분류</th>
+      <th style="width: 300px;">분류</th>
       <th style="width: 1000px;">기술 스택</th>
     </tr>
   </thead>
