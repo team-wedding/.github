@@ -42,50 +42,72 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2d2b0b97-8f22-4e00-9ace-71789d8dac94" width="300px" />
 </div>
-나만의 청첩장을 생성, 수정, 조회, 삭제할 수 있습니다.
+
+- 나만의 청첩장을 생성, 수정, 조회, 삭제할 수 있습니다.
+
+<br/>
 
 #### 2️⃣ 청첩장 만들기: 3단계 입력과 8가지 선택 기능
 <div align="center">
   <img src="https://github.com/user-attachments/assets/92095ff4-db74-4f16-b9d7-4c441a1d4964" width="500px" />
 </div>
-1단계에서는 이름, 일시, 장소와 같은 필수 기본 정보를 입력할 수 있습니다.
+
+- 1단계에서는 이름, 일시, 장소와 같은 필수 기본 정보를 입력할 수 있습니다.
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3d831af9-28c8-4b90-83cc-1fd66dee1be2" width="500px" />
 </div>
-2단계에서는 캘린더, 지도/교통수단, 갤러리, 축의금, 연락하기, 공지사항, 글꼴, 배경음악 8가지의 선택 정보 중 원하는 기능을 골라 청첩장에 포함시킬 수 있습니다.
+
+- 2단계에서는 캘린더, 지도/교통수단, 갤러리, 축의금, 연락하기, 공지사항, 글꼴, 배경음악 8가지의 선택 정보 중 원하는 기능을 골라 청첩장에 포함시킬 수 있습니다.
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/12d086eb-41ec-4c68-9be4-6a736c808e34" width="500px" />
 </div>
-3단계에서는 청첩장의 글꼴, 음악과 같은 테마를 설정할 수 있습니다.
+
+- 3단계에서는 청첩장의 글꼴, 음악과 같은 테마를 설정할 수 있습니다.
+
+<br/>
 
 #### 3️⃣ 청첩장 공유
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5df9dadc-30bc-4e0f-8c5a-292d27d110cc" width="500px" />
 </div>
-제작한 청첩장을 하객들에게 공유할 수 있습니다.
-URL 복사, 카카오, QR 코드 3가지의 방법을 통해 공유할 수 있습니다.
+
+- 제작한 청첩장을 하객들에게 공유할 수 있습니다.
+- 이때 URL 복사, 카카오, QR 코드 3가지의 방법을 통해 공유할 수 있습니다.
+
+<br/>
 
 #### 4️⃣ RSVP: 참석여부 관리
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f03d7a68-d779-4465-9dea-4bb6681373dc" width="300px" />
 </div>
-하객들로부터 참석여부 데이터를 받고 이를 관리할 수 있습니다. 
-총 통계 데이터 및 상세 목록을 확인할 수 있으며, 해당 정보를 엑셀 파일로 다운로드할 수 있습니다.
+
+- 하객들로부터 참석여부 데이터를 받고 이를 관리할 수 있습니다. 
+- 총 통계 데이터 및 상세 목록을 확인할 수 있으며, 해당 정보를 엑셀 파일로 다운로드할 수 있습니다.
+
+<br/>
 
 #### 5️⃣ 포토톡: 실시간 포토월
 <div align="center">
   <img src="https://github.com/user-attachments/assets/feb84f32-2a18-4ce3-bd25-82d3c618a1be" width="300px" />
 </div>
-하객들로부터 실시간 포토월 데이터를 받을 수 있습니다.
-하객들은 사진과 축하메세지를 입력하여 포토월을 등록할 수 있고, 청첩장 제작자는 갤러리를 통해 이미지들을 다운로드하고 삭제할 수 있습니다.
+
+- 하객들로부터 실시간 포토월 데이터를 받을 수 있습니다.
+- 하객들은 사진과 축하메세지를 입력하여 포토월을 등록할 수 있고, 청첩장 제작자는 갤러리를 통해 이미지들을 다운로드하고 삭제할 수 있습니다.
+
+<br/>
 
 #### 6️⃣ 다크 모드
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5f2c1427-920f-41c4-b2e1-7bb6eee4a26e" width="300px" />
 </div>
-다크 모드를 통해 청첩장의 색감 반전을 경험할 수 있습니다. 
+
+- 다크 모드를 통해 청첩장의 색감 반전을 경험할 수 있습니다. 
 
 ---
 
